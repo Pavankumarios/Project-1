@@ -1,5 +1,5 @@
 //
-//  MenuViewController.swift
+//  SettingsViewController.swift
 //  Project-1
 //
 //  Created by PavanKumar on 08/12/22.
@@ -7,11 +7,11 @@
 
 import UIKit
 
-class MenuViewController: UIViewController {
+class SettingsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-print("sdvfdfvd")
+
         // Do any additional setup after loading the view.
     }
     

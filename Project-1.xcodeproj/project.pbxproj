@@ -14,6 +14,7 @@
 		D84DA5482941C19F00B27B1F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D84DA5472941C19F00B27B1F /* Assets.xcassets */; };
 		D84DA54B2941C19F00B27B1F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D84DA5492941C19F00B27B1F /* LaunchScreen.storyboard */; };
 		D8CC72782941DC8C00E01222 /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8CC72772941DC8C00E01222 /* MenuViewController.swift */; };
+		D8CC727A2941DD0D00E01222 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8CC72792941DD0D00E01222 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		D84DA54A2941C19F00B27B1F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D84DA54C2941C19F00B27B1F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D8CC72772941DC8C00E01222 /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
+		D8CC72792941DD0D00E01222 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				D84DA5492941C19F00B27B1F /* LaunchScreen.storyboard */,
 				D84DA54C2941C19F00B27B1F /* Info.plist */,
 				D8CC72772941DC8C00E01222 /* MenuViewController.swift */,
+				D8CC72792941DD0D00E01222 /* SettingsViewController.swift */,
 			);
 			path = "Project-1";
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 				D84DA5432941C19C00B27B1F /* ViewController.swift in Sources */,
 				D84DA53F2941C19C00B27B1F /* AppDelegate.swift in Sources */,
 				D84DA5412941C19C00B27B1F /* SceneDelegate.swift in Sources */,
+				D8CC727A2941DD0D00E01222 /* SettingsViewController.swift in Sources */,
 				D8CC72782941DC8C00E01222 /* MenuViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

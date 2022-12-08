@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("addes")
         print("2")
+        self.present(SettingsViewController(), animated: true)
        
 
         // Do any additional setup after loading the view.
