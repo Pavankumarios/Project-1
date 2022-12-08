@@ -13,8 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("addes")
         print("addes")
-        print("addes")
-        print("addes")
+       
 
         // Do any additional setup after loading the view.
     }
